@@ -14,7 +14,7 @@ border: 2px solid black;
 }
 body{
 
-background: linear-gradient(to right, rgba(255,255,255,0),rgba(255,255,255,1)),url(../imag1.jpg) ;
+background: linear-gradient(to left, rgba(255,255,255,0),rgba(255,255,255,1)),url(../imag1.jpg) ;
 margin-left: 200px;
 margin-top: 50px;
 margin-right:200px ;
